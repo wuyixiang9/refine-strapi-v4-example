@@ -1,2 +1,3 @@
-# refine-strapi-v4-example
-Created with CodeSandbox
+# Refine Strapi Auth/Data Provider Example App
+
+TODO: Strapi provider description.
